@@ -23,6 +23,11 @@ public class BookServiceTest {
         Book book = bookService.getById(1);
         System.out.println(book);
         System.out.println(bookService);
+    }
 
+    @Test
+    public void testGetAll(){
+        List book  = bookService.getAll();
+        System.out.println("get all:"+book);
     }
 }
