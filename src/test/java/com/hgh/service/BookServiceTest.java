@@ -1,6 +1,7 @@
 package com.hgh.service;
 
 import com.hgh.config.SpringConfig;
+import com.hgh.dao.BookDao;
 import com.hgh.domain.Book;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -22,6 +23,11 @@ public class BookServiceTest {
         Book book = bookService.getById(1);
         System.out.println(book);
         System.out.println(bookService);
+    }
 
+    @Test
+    public void testGetAll(){
+        List book  = bookService.getAll();
+        System.out.println("get all:"+book);
     }
 }
