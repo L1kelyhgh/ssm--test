@@ -24,6 +24,7 @@ BookServiceTest {
         Book book = bookService.getById(1);
         System.out.println(book);
         System.out.println(bookService);
+
     }
 
     @Test
