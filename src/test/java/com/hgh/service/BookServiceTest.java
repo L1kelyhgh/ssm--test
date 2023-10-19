@@ -30,5 +30,8 @@ BookServiceTest {
     public void testGetAll(){
         List book  = bookService.getAll();
         System.out.println("get all:"+book);
+
+
+
     }
 }
