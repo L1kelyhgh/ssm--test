@@ -1,0 +1,10 @@
+com\hgh\config\SpringConfig.class
+com\hgh\domain\Book.class
+com\hgh\config\JdbcConfig.class
+com\hgh\service\BookService.class
+com\hgh\config\MyBatisConfig.class
+com\hgh\config\ServletConfig.class
+com\hgh\config\SpringMvcConfig.class
+com\hgh\service\Impl\BookServiceImpl.class
+com\hgh\controller\BookController.class
+com\hgh\dao\BookDao.class
