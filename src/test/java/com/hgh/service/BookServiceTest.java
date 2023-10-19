@@ -25,7 +25,6 @@ BookServiceTest {
         System.out.println(book);
         System.out.println(bookService);
 
-
     }
 
     @Test
