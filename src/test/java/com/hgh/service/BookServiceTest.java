@@ -13,7 +13,8 @@ import java.util.List;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = SpringConfig.class)
-public class BookServiceTest {
+public class
+BookServiceTest {
 
     @Autowired
     private BookService bookService;
