@@ -13,23 +13,21 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:github/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:user" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97705a9e-140d-4c57-b148-d0a874da5857" name="Default Changelist" comment="get all test">
+      <change afterPath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/Flighting/FlightingLogging.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hgh/config/ServletConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hgh/config/ServletConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/a.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/hgh/service/BookServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hgh/service/BookServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,13 +135,15 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.BookServiceTest.testGetAll">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,9 +198,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookServiceTest.testGetAll" />
         <item itemvalue="JUnit.BookServiceTest.testGetById" />
         <item itemvalue="JUnit.BookServiceTest.testGetall" />
-        <item itemvalue="JUnit.BookServiceTest.testGetAll" />
         <item itemvalue="JUnit.BookServiceTest.testGetById" />
         <item itemvalue="JUnit.BookServiceTest.testGetall" />
       </list>
@@ -229,7 +229,8 @@
       <workItem from="1697680917994" duration="1898000" />
       <workItem from="1697682896295" duration="1226000" />
       <workItem from="1697684312692" duration="393000" />
-      <workItem from="1697685829614" duration="719000" />
+      <workItem from="1697685829614" duration="1093000" />
+      <workItem from="1697848909746" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="get all test">
       <created>1697297852051</created>
@@ -294,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697686247343</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="get all test">
+      <created>1697686561217</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697686561217</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +329,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="github/master" />
+                        <option value="user" />
                       </list>
                     </value>
                   </entry>
@@ -342,10 +350,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="get all test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="492" y="235" key="#Notifications" timestamp="1697300851785">
+    <state x="492" y="235" key="#Notifications" timestamp="1697686793194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="492" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1697300851785" />
+    <state x="492" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1697686793194" />
     <state x="369" y="0" key="CommitChangelistDialog2" timestamp="1697300738757">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -366,22 +374,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="109" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1697296707524" />
-    <state width="1478" height="370" key="GridCell.Tab.0.bottom" timestamp="1697686032820">
+    <state width="1478" height="370" key="GridCell.Tab.0.bottom" timestamp="1697686929659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="370" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1697686032820" />
-    <state width="1478" height="370" key="GridCell.Tab.0.center" timestamp="1697686032820">
+    <state width="1478" height="370" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1697686929659" />
+    <state width="1478" height="370" key="GridCell.Tab.0.center" timestamp="1697686929659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="370" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1697686032820" />
-    <state width="1478" height="370" key="GridCell.Tab.0.left" timestamp="1697686032820">
+    <state width="1478" height="370" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1697686929659" />
+    <state width="1478" height="370" key="GridCell.Tab.0.left" timestamp="1697686929659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="370" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1697686032820" />
-    <state width="1478" height="370" key="GridCell.Tab.0.right" timestamp="1697686032820">
+    <state width="1478" height="370" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1697686929659" />
+    <state width="1478" height="370" key="GridCell.Tab.0.right" timestamp="1697686929659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="370" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1697686032820" />
+    <state width="1478" height="370" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1697686929659" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1697683395592">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
