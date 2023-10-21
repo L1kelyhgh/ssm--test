@@ -18,17 +18,16 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:user" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:booksys" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97705a9e-140d-4c57-b148-d0a874da5857" name="Default Changelist" comment="get all test">
-      <change afterPath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.Search_cw5n1h2txyewy/LocalState/Flighting/FlightingLogging.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hgh/config/ServletConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hgh/config/ServletConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/a.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hgh/service/BookServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/hgh/service/BookServiceTest.java" afterDir="false" />
+    <list default="true" id="97705a9e-140d-4c57-b148-d0a874da5857" name="Default Changelist" comment="booksys">
+      <change beforePath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/index/stubs/java.class.extlist/java.class.extlist.storage.values.at" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/index/stubs/java.class.extlist/java.class.extlist.storage.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hgh/service/BookServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/hgh/service/BookServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
